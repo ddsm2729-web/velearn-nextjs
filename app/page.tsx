@@ -1569,7 +1569,7 @@ export default function HomePage() {
                   </div>
                   <div>
                     <a
-                      href="tel:+910000000000"
+                      href="tel:+919087551188"
                       className="d-flex view_butt"
                       style={{ cursor: "pointer" }}
                     >
