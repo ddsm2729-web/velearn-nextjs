@@ -117,7 +117,7 @@ export default function HomePage() {
     link.click();
     document.body.removeChild(link);
   };
-
+ 
   // --------------------------------
   // FETCH COURSES
   // --------------------------------
