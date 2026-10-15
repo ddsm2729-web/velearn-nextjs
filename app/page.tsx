@@ -15,7 +15,7 @@ import "swiper/css/pagination";
 
 // const BASE_API_URL = "http://localhost:5000/api/";
 const BASE_API_URL = "https://crm.velearn.in/api/";
-const BASE_IMAGE_URL = "https://velearn-next.onrender.com/images/";
+const BASE_IMAGE_URL = "https://www.velearn.in/images/";
 const BASE_DYNAMIC_IMAGE_URL =
   "https://crm.velearn.in/public/uploads/";
 

@@ -99,7 +99,7 @@ export default function IDEEditor() {
     const [execTime, setExecTime] = useState<string | null>(null);
     const [status, setStatus] = useState<string>("Ready");
 
-    const BASE_IMAGE_URL = "https://velearn-next.onrender.com/images/";
+    const BASE_IMAGE_URL = "https://www.velearn.in/images/";
 
     useEffect(() => {
         const savedLang =
